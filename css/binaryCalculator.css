@@ -1,0 +1,34 @@
+body {
+    width: 33%;
+}
+
+#res {
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+
+
+.digitButton {
+    background-color: lightgreen;
+    color: brown;
+}
+
+.calcButton {
+    background-color: darkgreen;
+    color: white;
+}
+
+.opButton {
+    background-color: black;
+    color: red;
+}
+
+#btns>button {
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
